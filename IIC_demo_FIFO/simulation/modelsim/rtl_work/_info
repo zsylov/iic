@@ -1,0 +1,128 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\verilog\IIC\IIC_demo\simulation\modelsim
+vencod_module
+IS^[IGSZe<oN8LZe2@25=43
+V_d3=m2nm[`eTF`Zmhi?TM2
+Z1 dF:\verilog\IIC\IIC_demo\simulation\modelsim
+w1531207074
+8F:/verilog/IIC/IIC_demo/source/encod_module.v
+FF:/verilog/IIC/IIC_demo/source/encod_module.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source -O0
+!i10b 1
+!s100 Vk>=F@QE8F[BRHiRK9L053
+!s85 0
+!s108 1531296467.888000
+!s107 F:/verilog/IIC/IIC_demo/source/encod_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/source|F:/verilog/IIC/IIC_demo/source/encod_module.v|
+!s101 -O0
+vfunction_module
+IWZ[>8UX2=Y>>J>;92dJ2D3
+V@X47MW?ETc1[:ZCFAgUAA0
+R1
+w1531291975
+8F:/verilog/IIC/IIC_demo/source/function_smg.v
+FF:/verilog/IIC/IIC_demo/source/function_smg.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 0J:_4NU[<B:c<n>J9534:0
+!s85 0
+!s108 1531296467.598000
+!s107 F:/verilog/IIC/IIC_demo/source/function_smg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/source|F:/verilog/IIC/IIC_demo/source/function_smg.v|
+!s101 -O0
+vIIC_demo
+IYhXRmUlAjI`fGNIJHJRCC1
+VCZ^MS@H6`c[WVib5aEDz82
+R1
+w1531292676
+8F:/verilog/IIC/IIC_demo/source/IIC_demo.v
+FF:/verilog/IIC/IIC_demo/source/IIC_demo.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@i@i@c_demo
+!i10b 1
+!s100 hOXTSmgj5Sg_RdGA6g[g81
+!s85 0
+!s108 1531296467.456000
+!s107 F:/verilog/IIC/IIC_demo/source/IIC_demo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/source|F:/verilog/IIC/IIC_demo/source/IIC_demo.v|
+!s101 -O0
+vIIC_demo_vlg_tst
+!i10b 1
+!s100 ed;1R69I0nVT_HKDU:Fd03
+InVOBDa;=QCGmAX<YV7VK50
+VJ@ScMLhXHm01;zJA_@fCg0
+R1
+w1531291394
+8F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt
+FF:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt
+L0 28
+R2
+r1
+!s85 0
+31
+!s108 1531296468.048000
+!s107 F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/simulation/modelsim|F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/simulation/modelsim -O0
+n@i@i@c_demo_vlg_tst
+vIIC_module
+Ig1KLicbIY5Jm1Y^Gdh5F`1
+V:oicWHGS7>a92@VjgTFH]0
+R1
+w1531296329
+8F:/verilog/IIC/IIC_demo/source/IIC_module.v
+FF:/verilog/IIC/IIC_demo/source/IIC_module.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@i@i@c_module
+!i10b 1
+!s100 LNjFe9f2IIYVNlfDeOFaG2
+!s85 0
+!s108 1531296467.264000
+!s107 F:/verilog/IIC/IIC_demo/source/IIC_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/source|F:/verilog/IIC/IIC_demo/source/IIC_module.v|
+!s101 -O0
+vsmg_dem
+IoTn99VRbOcJZSLn0m[9fT2
+V[omi_BOQWYcoeDWAm;:KQ0
+R1
+w1531209712
+8F:/verilog/IIC/IIC_demo/source/smg_dem.v
+FF:/verilog/IIC/IIC_demo/source/smg_dem.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 `jX<RHnXe0^mLR@]aJIB]3
+!s85 0
+!s108 1531296467.061000
+!s107 F:/verilog/IIC/IIC_demo/source/smg_dem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog/IIC/IIC_demo/source|F:/verilog/IIC/IIC_demo/source/smg_dem.v|
+!s101 -O0

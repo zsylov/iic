@@ -1,0 +1,70 @@
+# Reading D:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do IIC_demo_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source {F:/verilog/IIC/IIC_demo/source/smg_dem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module smg_dem
+# 
+# Top level modules:
+# 	smg_dem
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source {F:/verilog/IIC/IIC_demo/source/IIC_module.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IIC_module
+# 
+# Top level modules:
+# 	IIC_module
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source {F:/verilog/IIC/IIC_demo/source/IIC_demo.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IIC_demo
+# 
+# Top level modules:
+# 	IIC_demo
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source {F:/verilog/IIC/IIC_demo/source/function_smg.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module function_module
+# 
+# Top level modules:
+# 	function_module
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/source {F:/verilog/IIC/IIC_demo/source/encod_module.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module encod_module
+# 
+# Top level modules:
+# 	encod_module
+# 
+# vlog -vlog01compat -work work +incdir+F:/verilog/IIC/IIC_demo/simulation/modelsim {F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IIC_demo_vlg_tst
+# 
+# Top level modules:
+# 	IIC_demo_vlg_tst
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  IIC_demo_vlg_tst
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps IIC_demo_vlg_tst 
+# Loading work.IIC_demo_vlg_tst
+# Loading work.IIC_demo
+# Loading work.smg_dem
+# Loading work.function_module
+# Loading work.encod_module
+# Loading work.IIC_module
+# ** Warning: (vsim-3017) F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt(50): [TFMPC] - Too few port connections. Expected 7, found 6.
+# 
+#         Region: /IIC_demo_vlg_tst/i1
+# ** Warning: (vsim-3722) F:/verilog/IIC/IIC_demo/simulation/modelsim/IIC_demo.vt(50): [TFMPC] - Missing connection for port 'led'.
+# 
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 1 us

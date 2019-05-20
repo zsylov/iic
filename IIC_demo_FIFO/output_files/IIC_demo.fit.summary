@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jul 13 15:49:05 2018
+Quartus II 32-bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : IIC_demo
+Top-level Entity Name : IIC_demo
+Family : Cyclone IV E
+Device : EP4CE15F17C8
+Timing Models : Final
+Total logic elements : 407 / 15,408 ( 3 % )
+    Total combinational functions : 391 / 15,408 ( 3 % )
+    Dedicated logic registers : 91 / 15,408 ( < 1 % )
+Total registers : 91
+Total pins : 19 / 166 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 0 / 516,096 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
